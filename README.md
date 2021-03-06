@@ -93,7 +93,6 @@ data/nli_negation_concept/neutral.jsonl  # neutral instances
 data/nli_negation_concept/neutral_with_negation.jsonl  # the above neutral instances, paraphrased with negation words
 ```
 
-
-
+To analyze them with respect to the trained MultiNLI model, run the notebook `notebooks/mnli-negation-foilrank.ipynb`.
 
 
