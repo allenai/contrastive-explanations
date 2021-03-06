@@ -13,6 +13,7 @@ conda activate contrastive
 pip install allennlp==1.2.0rc1
 pip install allennlp-models==1.2.0rc1.dev20201014
 pip install jupyterlab
+pip install pandas
 bash scripts/download_data.sh
 ```
 
@@ -32,10 +33,18 @@ Very simple :)
 bash scripts/train_sequence_classification.sh 
 ```
 
-#### Highlight ranking
+#### Highlight ranking (Sections 4.3, 5.3)
 Run the `notebooks/mnli-highlight-featurerank.ipynb` or `notebooks/bios-highlight-featurerank.ipynb` jupyter notebooks.
 
 These notebooks load the respective models, and then run the highlight ranking procedure.
 
-#### Foil ranking (WIP)
+#### Foil ranking (Section 4.1)
+
+Run the `notebooks/bios-highlight-foilrank.ipynb` notebook.
+
+### Contrastive decision making (Section 4.4)
+
+Run the `notebooks/bios-foilpower.ipynb` notebook.
+
+
 
