@@ -40,11 +40,25 @@ These notebooks load the respective models, and then run the highlight ranking p
 
 #### Foil ranking (Section 4.1)
 
-Run the `notebooks/bios-highlight-foilrank.ipynb` notebook.
+First, cache the model's encodings of the dev set examples:
+```bash
+bash scripts/cache_encodings_bios.sh
+```
+Then run the `notebooks/bios-highlight-foilrank.ipynb` notebook.
 
-### Contrastive decision making (Section 4.4)
+#### Contrastive decision making (Section 4.4)
+First, cache the model's encodings of the dev set examples (skip if already executed):
+```bash
+bash scripts/cache_encodings_bios.sh
+```
 
-Run the `notebooks/bios-foilpower.ipynb` notebook.
+Then run the `notebooks/bios-foilpower.ipynb` notebook.
+
+#### Foil ranking for BIOS concepts (Section 4.2)
+WIP
+
+#### Foil ranking for MNLI concepts (Section 5.2)
+WIP
 
 
 
