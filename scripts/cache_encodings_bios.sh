@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-CUDA_ID=0
+CUDA_ID=3
 
 for DATASET in bios; do
     MODEL_PATH="experiments/models/${DATASET}/roberta-large"

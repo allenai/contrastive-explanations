@@ -1,0 +1,90 @@
+{"Sentence1": "A little girl with brown hair is blowing the petals off of a flower.", "Sentence2": "A little girl is playing with flowers.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Three men excavating what appears to be a mountainside.", "Sentence2": "Three men excavating a mountainside outdoors.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A dog chasing a deer in a field with yellow flowers.", "Sentence2": "A dog is running outside.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man stands on the sidewalk near a lamp post as well as a pillar forming part of an edifice.", "Sentence2": "The man is on a sidewalk.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Big hairy dog chews on a bone while lying on a furry toy.", "Sentence2": "The dog is laying on an object", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A curly-haired child is blowing away dandelion seeds while laying in a field of lush green grass.", "Sentence2": "A child is laying down outside.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Five people are in a swimming pool 3 ft. deep while there is a child on the side with blue shorts on and read floaties getting ready to jump in.", "Sentence2": "People are at a pool.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A young man in black and white striped shirt rests on the grass while traffic passes nearby on the road.", "Sentence2": "A boy is on the grass.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Spray obscures the face and torso of the paddle wielding man in the red kayak.", "Sentence2": "A man is going down a river in a kayak.", "gold_label": "neutral", "prediction": "entailment"}
+{"Sentence1": "A man is throwing water on a woman in front of a brick building while two men and another woman watch.", "Sentence2": "The man is throwing water on a woman.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A cabin shot of a very crowded airplane", "Sentence2": "The airplane is quite crowded.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A woman is sitting and staring on a red bench near a building.", "Sentence2": "A woman is sitting outside.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Man in while shirt and blue jeans holding hands while walking with a little girl in a blue dress and yellow hat.", "Sentence2": "A man and girl walking together", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A view of the back of a woman having a beverage.", "Sentence2": "woman has a drink", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A surfer wearing a red shirt takes on a huge blue wave.", "Sentence2": "Surfer in red catches a wave.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Three woman prepare a meal in a kitchen with salmon colored walls and bamboo cabinetry.", "Sentence2": "The ladies are cooking.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Three children dressed in winter clothes are walking through the woods while pushing cargo along.", "Sentence2": "Three children are dressed in warm winter clothes.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A lady dances in a polka dot dress and a head of flowers with a fan clasped in her hand while others are looking in a different direction with two men holding onto a ladder and others discussing.", "Sentence2": "A woman dances with a fan.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A little boy wearing glasses and a t-shirt that says, 'I'm a Pepper and Dr. Pepper,' stands looking at an older boy sitting in the grass.", "Sentence2": "Boy wearing Dr, Pepper shirt watches another boy sitting in grass.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A young boy wearing safety swimming gear and goggles is in a pool.", "Sentence2": "A kid uses eye protection while in the water.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man without a shirt walking towards a gas station.", "Sentence2": "A shirtless man is walking to a gas station.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two woman talk in the middle of a parking lot, near two cars, as random people wander nearby.", "Sentence2": "Two women near cars talk in the middle of the lot", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Military woman using a microscope.", "Sentence2": "A woman using a microscope.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Group of people stand near a fence watching a plane fly over them", "Sentence2": "Group of people standing outside", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A woman in a green skirt and white tank top singing into a microphone.", "Sentence2": "A woman sings on stage.", "gold_label": "neutral", "prediction": "entailment"}
+{"Sentence1": "A young man is using gloves to control a device with wires in it.", "Sentence2": "A gloved young man is working on a wired device.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man, dressed in a green shirt with black pants, is transporting luggage strapped to a wheelbarrow, down a cobblestone road.", "Sentence2": "The shirt is green.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Children with painted red faces being sprayed with water, on grass.", "Sentence2": "Children have painted faces.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two boys laying tile in a bathroom.", "Sentence2": "Some kids are working.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A young girl jumping in front of the White House.", "Sentence2": "Someone is outside.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A lady watching kids play on a tree.", "Sentence2": "Some kids are outdoors.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A group packs food into boxes in a cold field.", "Sentence2": "The group is packing food.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "a shepherd breed dog running on the beach", "Sentence2": "A dog is running around", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A girl jumping on pavement.", "Sentence2": "A girl outside", "gold_label": "neutral", "prediction": "entailment"}
+{"Sentence1": "Two men pause on a rock while hiking in barren terrain.", "Sentence2": "Two men are hiking outdoors.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A woman runs by in the foreground as other competitors stand on the sideline.", "Sentence2": "A lady is running.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A girl is sitting in a chair blowing up a large yellow party balloon.", "Sentence2": "A child blows up balloons.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two men help an injured player on the field.", "Sentence2": "Some men help an injured player on the field.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A little girl in a red flowered dress with a tennis racket.", "Sentence2": "A little girl in red.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "a big tan dog drinks water from an outdoor water spout.", "Sentence2": "A dog is outside and thirsty.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "young female in striped shirt holding baby boy with red striped outfit", "Sentence2": "Young woman holding baby boy.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A view from a hidden camera at a low height shows a man and a woman standing under an umbrella mounted on the back of a three wheeled bicycle with a cart on the back.", "Sentence2": "A man and a woman stand under an umbrella.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A woman, in a green shirt, preparing to run on a treadmill.", "Sentence2": "A woman is getting a workout.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A black and a brown dog are running toward the camera.", "Sentence2": "Dogs are running toward the camera.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A dancer in costumer performs on stage while a man watches.", "Sentence2": "the dancer is wearing a costume", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two children feeding horses through a fence.", "Sentence2": "Children attending to a animals needs.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "People go about their daily routines- selling food, cutting hair- on the ghetto streets of Ho Chi Minh City, Vietnam.", "Sentence2": "People are on the streets in vietnam", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "The baby in a blue jean hat and sunglasses looks at the camera while being held.", "Sentence2": "A baby looks at the camera.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A restaurant front line, with a warmer in the front and a person in a red Coca Cola shirt cooking.", "Sentence2": "A person is wearing a Coca Cola shirt.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A black and white dog prepares to catch a Frisbee.", "Sentence2": "A dog prepares to catch a Frisbee.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A boy on a skateboard ramp.", "Sentence2": "There is a boy on a ramp", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A woman with brown hair, black jacket, large black sunglasses, and pink scarf walking down the street.", "Sentence2": "a woman is walking", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A woman in the street with a black shirt and stars with her mouth open.", "Sentence2": "There is someone outside.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A downtown shot of a man on his cellphone under an awning.", "Sentence2": "A man talks on a phone in a city.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A person with a dark yellow baseball cap and a gray sweatshirt is in the air over an outdoor fountain in front of a cityscape.", "Sentence2": "The person is wearing a baseball cap.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man and a woman are shopping at a large hardware warehouse store.", "Sentence2": "A couple is shopping in a store.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "The skier is doing a flip through some trees", "Sentence2": "A skier is doing tricks.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "There is a man wearing a red shirt and brown shorts jumping up to hit a tennis ball with a racket.", "Sentence2": "A man is wearing a red shirt", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "a young girl in red lifting a girl in blue to the top of a wall and lighting.", "Sentence2": "They are trying to reach something high up.", "gold_label": "neutral", "prediction": "entailment"}
+{"Sentence1": "Three young men are cleaning up a classroom.", "Sentence2": "Three young men clean up their class.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "The elderly bus driver opening the door for a passenger who needs to get off.", "Sentence2": "The elderly driver opens the bus doors.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two police officers are sitting on motorcycles in the road.", "Sentence2": "the police are sitting", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "a girl at a wedding holding some orange flowers", "Sentence2": "A girl is holding some orange flowers at a wedding.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man wearing shorts is playing an acoustic guitar while a person in the background looks the other way.", "Sentence2": "a guy plays music while others look away", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "One man in all black in a bowling ally who just bowled with an orange ball.", "Sentence2": "A man is bowling.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "The greyhounds are running quickly in this race.", "Sentence2": "The dogs are running quickly in this race.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two little kids laugh on a blue swing.", "Sentence2": "Two children are playing on the swings.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "a large house with three stories and 3 matching balconies, with one person standing on each balcony overlooking onlookers.", "Sentence2": "The house has balconies.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A male and a female with a black hat, and sunglasses stop and talk.", "Sentence2": "Man and woman stop and chat with each other.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A little boy is kneeling on the floor, scribbling with an orange and blue crayon on a paper, at a little table with the arm of a man resting on the table.", "Sentence2": "a boy coloring", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man jumps in front of a palace in China.", "Sentence2": "A man is jumping.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man and woman, she's dressed all in white, he has a white shirt, holding hands while walking", "Sentence2": "A man and woman hold hands.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man wearing a mask with green dreadlocks and blue gloves stands in front of a woman in a brown cardigan.", "Sentence2": "The man seems to be in disguise.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man and a woman are walking in the middle of a street.", "Sentence2": "People are crossing the street.", "gold_label": "neutral", "prediction": "entailment"}
+{"Sentence1": "A man with a black shirt, shorts and a black messenger bag, is listening to a man, sitting with black pants and a white t-shirt, playing the guitar.", "Sentence2": "There are some people in clothes and there is a musical instrument.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A waitress with a pink shirt and black pants walking through a restaurant carrying bowls of soup.", "Sentence2": "A person with pants", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Young girl sitting on bleachers.", "Sentence2": "A girl is sitting.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A young puppy suckles from his mother.", "Sentence2": "A young puppy lays at it's mothers stomach.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man in a black jacket is talking with two blond women as they stand near a car in the sunshine.", "Sentence2": "A man talks.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two dogs run around inside a fence.", "Sentence2": "Two dogs are inside a fence.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A group of girls ride an ATV.", "Sentence2": "Girls ride ATVs.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A young woman dressed as a princess is waving to others from inside a ride where the carriage is a large replica of the Disney character, Dumbo.", "Sentence2": "A female with clothes on is on a moving vehicle, waving her hands left to right in the air.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Four motorcycles are racing on a dirt track.", "Sentence2": "four motorcycles are racing", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Blurry people walking in the city at night.", "Sentence2": "People walking in the city", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A couple being romantic under the sunset.", "Sentence2": "A man and a woman touching each other  looking at the sunset.", "gold_label": "neutral", "prediction": "entailment"}
+{"Sentence1": "A man wearing yellow sneakers and a black vest is on a water board and hangs onto a waterski line that appears to be towed by a boat.", "Sentence2": "A man is moving on the water.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man rock climbs with a city and body of water in the background.", "Sentence2": "A man is outside.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "Two young adult passengers of a vehicle are sleeping.", "Sentence2": "There are two people sleeping in a vehicle", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "There is a teen boy and a younger boy with the same shirts on in a room full of people.", "Sentence2": "People are in a room.", "gold_label": "entailment", "prediction": "entailment"}
+{"Sentence1": "A man and a female doing some type of martial arts.", "Sentence2": "Two people spar using some form of martial arts.", "gold_label": "neutral", "prediction": "entailment"}

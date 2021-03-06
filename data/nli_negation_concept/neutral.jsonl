@@ -1,0 +1,88 @@
+{"Sentence1": "A small child with a blue hood is looking out the window.", "Sentence2": "A child is excited", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A woman is holding one young children with another standing next to her while a man is sitting by a small campfire.", "Sentence2": "A woman is holding one young children with another standing happily next to her", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "older men talking and standing around.", "Sentence2": "The older men are talking about their wives.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A bride adjust her husbands flower on his coat as she holds her own bouquet of flowers.", "Sentence2": "The bride and groom are posing for a cute photograph.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A woman in a patterned shirt hands a plate of food to another woman in an apron, while two women work in the background.", "Sentence2": "Upstanding citizens work at a soup kitchen to benefit the hungry.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A young boy and girl playing Pokemon.", "Sentence2": "The children are five years old.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A group of people are watching something.", "Sentence2": "A group of people are whale watching.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A young woman rides by herself on a swinging carnival ride.", "Sentence2": "A woman is enjoying herself.", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "A child wearing a red shirt playing.", "Sentence2": "A child wearing a red shirt playing outside.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A blond-hair boy holding a toy airplane is in front of what looks like a colorful toy monster.", "Sentence2": "A child at a birthday party, holds his new presents as the other children look on and smile.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man standing on a boat in a yellow jumpsuit helping another man in a yellow jumpsuit climb up a ladder on a bigger ship.", "Sentence2": "Two men on a boat enjoying their vacation.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Young children and parents splashing around a public fountain.", "Sentence2": "There are families playing in a fountain at the park", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A clown making a balloon animal for a pretty lady.", "Sentence2": "A clown showing off for a lady he has a crush on.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background.", "Sentence2": "The dogs are out to catch fish.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "One woman with blond-hair smiles in the foreground while another prepares to blow a noisemaker in the background.", "Sentence2": "A tall person smiling", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two children are sleeping while someone is fingering through a book of music.", "Sentence2": "The music is quiet.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two people watch TV from over a white ledge.", "Sentence2": "Two people are watching sports on TV.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A shirtless man is being filmed in the middle of a soccer field.", "Sentence2": "A man is celebrating on camera after scoring a goal.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A black dog runs along the green grass carrying a toy in its mouth.", "Sentence2": "The dog is playing fetch.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man in the street is playing drums on old cans.", "Sentence2": "The homeless man is playing songs", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two hikers crossing a snowy field, with mountainous terrain behind them.", "Sentence2": "Two hikers are returning to base camp.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "An asian man wearing a blue shirt is kicking up water.", "Sentence2": "An asian man is getting his shoes or feet wet.", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "Chef's working in a kitchen.", "Sentence2": "The chef is world-famous, and is trying out new recipes to possibly include in her next cookbook.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A young man sits at a workbench amidst a number of work tools including wire cutters working on what appears to be a large ornate necklace.", "Sentence2": "The necklace will be sold.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man in goggle swimming.", "Sentence2": "A man smiling while swimming in goggles.", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "A boy on a skateboard ramp.", "Sentence2": "The boy is doing a skateboard trick", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Bald man in white and black shorts, punching man with black hair, and red, orange and blue shorts.", "Sentence2": "The men are fighting over a girl.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A group of people gathered to watch fireworks.", "Sentence2": "The group gathered inside the house.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A woman in a white t-shirt points at a geyser.", "Sentence2": "The women points her daughter to the geyser.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A woman wearing gray pants, a white blouse and a black vest is jumping with one hand in the air as she goes through an indoor stadium.", "Sentence2": "The female stadium worker jumps for joy as she leaves her long tiring shift.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two women in colorful swimming suits are leaping above a pool while two other women in the pool watch.", "Sentence2": "The women are sisters.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man in a green shirt and black hat is smoothing concrete.", "Sentence2": "A person is resurfacing the sidewalk of a well known street.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A firefighter, in full uniform, looks off into the distance.", "Sentence2": "The firefighter is going to put out a fire.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man in orange and white rides his mountain bike through a forest.", "Sentence2": "The man is riding a 12-speed bike and wearing orange shirt and white shorts.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A teenage is on a surfboard.", "Sentence2": "a teen is catching a big wave", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two teams of children, one green the other red, play each other in a game of Rugby while it rains.", "Sentence2": "The children rugby team are playing again after a short rain delay.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A girl with black hair and a green shirt has taken several bites from a fresh green apple.", "Sentence2": "The girl is participating in the local county fair, and is helping judge the 'juiciest apple' category.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Three boys in a wooden-paneled room, one inspecting a bow.", "Sentence2": "Three boy scouts are inspecting a bow they will be practicing with for the next 2 days.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "The little girl in yellow is touching the dad who has shaving cream on his face.", "Sentence2": "A girl and her father spend time together as he shaves", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "A dog gnawing on a bone.", "Sentence2": "A dog found a bone", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Three people and a white dog are sitting in the sand on a beach.", "Sentence2": "People on vacation at the beach.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man wearing lime green pants and shirt working on a sign.", "Sentence2": "A sad man wearing lime green pants and shirt working on a sign.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Young girl with dark hair facing camera and holding a paper bag while wearing an orange shirt and multicolored butterfly wings.", "Sentence2": "A young girl faces the camera while holding a lunch bag.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A woman is talking on the phone while standing next to a dog.", "Sentence2": "A woman is walking her dog.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A guy on inline skates with a white hat is on a yellow rail.", "Sentence2": "The guy on inline skates is trying to impress his girlfriend.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Three men converse in a crowd.", "Sentence2": "Three men discuss politics in a crowd", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A young boy with his mum going home after playing toy games.", "Sentence2": "A child is with his mum and crying.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man is taking pictures hanging outside of a red rally car.", "Sentence2": "The man is a race car driver.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Man in skeleton-printed leather outfit sitting astride a red motorcycle.", "Sentence2": "The biker is showing off his bike.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two dogs play together on the bed.", "Sentence2": "Two dogs wrestling with a sheet on a bed.", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "Three people are taking a photograph of a young woman sitting in the middle of the street.", "Sentence2": "Photographers trying to get the perfect photo before the daylight fades.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A brown dog is about to catch a treat.", "Sentence2": "A brown dog receives a rawhide treat.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two older men standing in front of a store of sorts.", "Sentence2": "two older men prepare to enter a store", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Here we have a guy using a pressure washer on the sidewalk.", "Sentence2": "A guy is washing bird poop off of the sidewalk.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A small dog wearing a denim miniskirt.", "Sentence2": "A dog is in a dog show competion.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "People sitting down, walking around and, taking pictures outside of a building.", "Sentence2": "They are visiting a country.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Young child is falling through the air from a swing.", "Sentence2": "the child is on the playground", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Man sliding down stair handrails on a bike.", "Sentence2": "A man in a pink uniform glides down handrails on a bike.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A group of power workers at the site of a car crash.", "Sentence2": "The power workers are trying to restore power.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man and a girl sit inside a floating tube in the water.", "Sentence2": "The water is clear blue.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man and women walk atop a hill.", "Sentence2": "The man and woman are dating.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two guys are on a baseball field and one is about to hit the base.a group", "Sentence2": "The guys are in the MLB.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A hot-air balloon getting filled.", "Sentence2": "A hot-air balloon is being prepared for take off.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A chef mixes batter while showing a student instructions.", "Sentence2": "A chef with a tall hat is teaching a student.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A model is standing next too a blue jeep.", "Sentence2": "The jeep is new.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A skateboarder does a trick at a skate park.", "Sentence2": "The skateboarder is performing a heelie kick flip.", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "A young boy is sitting in a green tunnel", "Sentence2": "The boy is wearing a green shirt", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man in a club addressing other people and holding his index finger up with a woman standing behind him.", "Sentence2": "A man is looking for his girlfriend in a club.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Women are standing outside", "Sentence2": "The women are friends.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Man with short hair moves wooden structure.", "Sentence2": "The man fixes the wooden fence.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Soldier watches as a train zooms by.", "Sentence2": "Soldier is doing a crossword as he watches the train.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A child walking towards a bridge waving a flag.", "Sentence2": "a kid walks with a flag to celebrate 4th of July", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "Sentence2": "A man is repainting a garage", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A woman with sneakers and a skirt is sweeping out a storage building.", "Sentence2": "Woman sweeps storage building, cleaning it out to get ready for business.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A band on stage playing a song with a banner in the background that says Screaming Orphans.", "Sentence2": "The band is playing for a charity concert.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A group of people are gathered in the woods around trees and a ladder.", "Sentence2": "Miners work hard at gathering coal.", "gold_label": "contradiction", "prediction": "neutral"}
+{"Sentence1": "Four girls and a lady learning how to do some crafts.", "Sentence2": "Crafts are being done poorly.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A woman holds a little girl next to a large wooden carving of a bear.", "Sentence2": "The mother and girl are posing for a picture.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Man standing on a tricycle riding in front of a crowd.", "Sentence2": "A man is performing tricks on a bike.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A little asian girl in pigtails is building with wood and painting with colored markers.", "Sentence2": "a young girl is building and painting for her mother", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two people sit on a bench leaned against a building with writing on it.", "Sentence2": "Some people are at a historical park.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man jumps in front of a palace in China.", "Sentence2": "The street is crowded.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Two dogs run together across a grassy lawn.", "Sentence2": "The dogs are related.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A man uses a projector to give a presentation.", "Sentence2": "A man is giving a presentation in front of a large crowd.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "Indian women playing musical chairs with white woman.", "Sentence2": "indian women playing musical chairs with white woman in out door", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "a bride and a groom at their wedding kissing", "Sentence2": "A new couple kiss every time someone rings a bell at the reception.", "gold_label": "neutral", "prediction": "neutral"}
+{"Sentence1": "A football coach guiding one of his players on what he should do.", "Sentence2": "The coach knows how to play football.", "gold_label": "entailment", "prediction": "neutral"}
+{"Sentence1": "Two men selling fruit at a fruit market.", "Sentence2": "Two men are selling bananas.", "gold_label": "neutral", "prediction": "neutral"}

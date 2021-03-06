@@ -55,10 +55,45 @@ bash scripts/cache_encodings_bios.sh
 Then run the `notebooks/bios-foilpower.ipynb` notebook.
 
 #### Foil ranking for BIOS concepts (Section 4.2)
-WIP
+
+First, generate concept labels as a numpy matrix from the BIOS dataset:
+```bash
+python scripts/bios_concepts.py --data-path data/bios/train.jsonl --concept-path experiments/models/bios/roberta-large/concepts/gender-male/train
+python scripts/bios_concepts.py --data-path data/bios/dev.jsonl --concept-path experiments/models/bios/roberta-large/concepts/gender-male/dev
+python scripts/bios_concepts.py --data-path data/bios/test.jsonl --concept-path experiments/models/bios/roberta-large/concepts/gender-male/test
+```
+
+Then, run Amnesic Probing:
+
+(WIP)
+
 
 #### Foil ranking for MNLI concepts (Section 5.2)
-WIP
+
+##### Overlap concept:
+
+First, generate concept labels as a numpy matrix from the BIOS dataset:
+
+```bash
+python scripts/mnli_concepts.py --data-path data/mnli/train.jsonl --concept-path experiments/models/mnli/roberta-large/concepts/overlap/train
+python scripts/mnli_concepts.py --data-path data/mnli/dev.jsonl --concept-path experiments/models/mnli/roberta-large/concepts/overlap/dev
+python scripts/mnli_concepts.py --data-path data/mnli/test.jsonl --concept-path experiments/models/mnli/roberta-large/concepts/overlap/test
+```
+Then, run Amnesic Probing:
+
+(WIP)
+
+##### Negation concept:
+
+The examples we used for the negation concept analysis are:
+```
+data/nli_negation_concept/entailment.jsonl  # entailment instances
+data/nli_negation_concept/entailment_with_negation.jsonl  # the above entailment instances, paraphrased with negation words
+data/nli_negation_concept/neutral.jsonl  # neutral instances
+data/nli_negation_concept/neutral_with_negation.jsonl  # the above neutral instances, paraphrased with negation words
+```
+
+
 
 
 
