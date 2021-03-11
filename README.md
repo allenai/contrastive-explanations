@@ -65,7 +65,7 @@ python scripts/bios_concepts.py --data-path data/bios/test.jsonl --concept-path 
 
 Then, run Amnesic Probing:
 
-(WIP - to be added soon. Alternatively, refer to [https://github.com/yanaiela/amnesic_probing](the originam amnesic probing repository) which has the necessary code.)
+* WIP - to be added soon. Alternatively, refer to [the originam amnesic probing repository](https://github.com/yanaiela/amnesic_probing) which has the necessary code.
 
 
 #### Foil ranking for MNLI concepts (Section 5.2)
@@ -81,7 +81,7 @@ python scripts/mnli_concepts.py --data-path data/mnli/test.jsonl --concept-path 
 ```
 Then, run Amnesic Probing:
 
-(WIP - to be added soon. Alternatively, refer to [https://github.com/yanaiela/amnesic_probing](the originam amnesic probing repository) which has the necessary code.)
+* WIP - to be added soon. Alternatively, refer to [the originam amnesic probing repository](https://github.com/yanaiela/amnesic_probing) which has the necessary code.
 
 ##### Negation concept:
 
