@@ -2,7 +2,7 @@
 
 ### This is the repository for the paper "Contrastive Explanations for Model Interpretability", about explaining neural model decisions *against alternative decisions*.
 
-#### Authors: Alon Jacovi, Swabha Swayamdipta, Shauli Ravfogel, Yanai Elazar, Yoav Goldberg, Yejin Choi
+#### Authors: Alon Jacovi, Swabha Swayamdipta, Shauli Ravfogel, Yanai Elazar, Yejin Choi, Yoav Goldberg
 
 ### Getting Started
 
